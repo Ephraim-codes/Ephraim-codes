@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ephraim 👋
 
-<!--
-**Ephraim-codes/Ephraim-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a Frontend Developer in training, currently mastering HTML, CSS, and JavaScript.
 
-Here are some ideas to get you started:
+I’m passionate about building clean, responsive, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills (Learning & Improving)
+- HTML
+- CSS
+- JavaScript (Soon)
+- Git & GitHub
+
+## 📈 Current Goal
+To become a job-ready frontend developer and work remotely for international companies.
+
+---
+
+📫 How to reach me:
+(You can add email later)
